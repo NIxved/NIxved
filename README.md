@@ -17,7 +17,6 @@
 </samp>
 
   <img align="left" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
-  <img src="https://wallpapers-clan.com/wp-content/uploads/2024/04/miles-morales-black-gif-cover-desktop-wallpaper.gif">
     <img align="right" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/> 
 
 <br>
