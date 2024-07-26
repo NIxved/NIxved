@@ -12,7 +12,7 @@
 <br>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
-<picture> <img align="right" src="[https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fco.pinterest.com%2Fpin%2F742953269753016138%2F&psig=AOvVaw3BSwW8wMOxLLyjYd3Ea0-_&ust=1722100654882000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLjjn4CbxYcDFQAAAAAdAAAAABAE)" width = 250px></picture>
+<picture> <img align="right" src="https://i.pinimg.com/originals/55/01/60/5501609ee45d514d1f2c4a63502045e2.gif" width = 250px></picture>
 
 <br>
 
