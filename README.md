@@ -148,3 +148,8 @@
 Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
 
 Last Edited on: 09/11/2022
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
