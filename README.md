@@ -75,12 +75,13 @@
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://i.gifer.com/Cad.gif"> 
+
 <div align='center'>
 
 ## <b>Nixved</b>
 <br>
-https://i.gifer.com/Cad.gif
+<img src="https://wallpapers-clan.com/wp-content/uploads/2024/04/miles-morales-black-gif-cover-desktop-wallpaper.gif">
+
 <br>
 <br>
 <br>
